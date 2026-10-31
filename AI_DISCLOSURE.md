@@ -1,15 +1,23 @@
-# AI assistance disclosure
+# AI Assistance Disclosure
 
-This project's implementation and documentation were assisted by an AI coding assistant using Copilot SDK in VS Code.
+This project was developed with assistance from GitHub Copilot.
 
-AI assistance was used to:
+AI assistance was used for:
 
-- draft and organize the Python implementation;
-- create tests and synthetic sample data;
-- diagnose the SQLite output-directory failure;
-- draft the README and supporting documentation; and
-- prepare the Git and submission guidance.
+* Python code drafting and implementation support.
+* Creating test cases and synthetic sample datasets.
+* Debugging and resolving technical issues.
+* Implementing and validating data-processing workflows.
+* Preparing README and project documentation.
+* Git commands and submission guidance.
 
-The candidate reviewed and ran the project, understands the core implementation and trade-offs, and remains responsible for validating the submitted work.
+**Developer Responsibility:**
 
-The complete submitted prompt history is recorded in [prompts/prompt_history.md](prompts/prompt_history.md). No automated export was available for the complete conversational log, so that file identifies its reconstructed scope and limitation.
+* Reviewed and executed the project implementation.
+* Understands the core architecture, functionality, and technical decisions.
+* Takes responsibility for validating the code and submitted results.
+* Can explain the project's implementation and trade-offs.
+
+**Prompt History:**
+
+The available AI prompt history is maintained in `prompts/prompt_history.md`. It represents a reconstructed record and is not a complete automated conversation export.
